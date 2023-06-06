@@ -3,7 +3,7 @@ import CartListItem from "../components/CartListItem"
 import { ShoppingCartTotals } from '../components/ShoppingCartTotals'
 import cart from "../data/cart"
 
-export const ShoppingCart = () => {
+export const ShoppingCartScreen = () => {
   return (
     <>
       <FlatList
