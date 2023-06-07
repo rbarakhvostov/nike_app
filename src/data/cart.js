@@ -32,4 +32,4 @@ export default [
     size: 44,
     quantity: 1,
   },
-];
+]
